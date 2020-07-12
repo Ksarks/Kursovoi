@@ -1,0 +1,84 @@
+
+2020-06-04 11:50:58,742 - Shedul.Database - Eror in getID : tuple index out of range
+2020-06-04 11:51:55,285 - Shedul.Database - Eror in getID : tuple index out of range
+2020-06-08 13:58:54,217 - Shedul.Database - Eror in Criterior Input : not enough arguments for format string
+2020-06-08 14:02:42,369 - Shedul.Database - Eror in Criterior Input : not enough arguments for format string
+2020-06-08 14:07:47,636 - Shedul.Database - Eror in Criterior Input : not enough arguments for format string
+2020-06-08 14:09:01,184 - Shedul.Database - Eror in Criterior Input : not all arguments converted during string formatting
+2020-06-08 14:14:15,559 - Shedul.Database - Eror in Criterior Input : not all arguments converted during string formatting
+2020-06-08 14:15:08,740 - Shedul.Database - Eror in Criterior Input : not all arguments converted during string formatting
+2020-06-08 17:48:36,996 - Shedul.Database - Eror in Criterior Input : not all arguments converted during string formatting
+2020-06-08 18:45:23,759 - Shedul.Database - Eror in Criterior Input : (1452, 'Cannot add or update a child row: a foreign key constraint fails (`shedul`.`types`, CONSTRAINT `user` FOREIGN KEY (`userid`) REFERENCES `login` (`idLogin`))')
+2020-06-08 20:29:46,893 - Shedul.Database - Eror in Criterior Input : not enough arguments for format string
+2020-06-08 20:32:03,773 - Shedul.Database - Eror in Criterior Input : not enough arguments for format string
+2020-06-08 20:35:14,604 - Shedul.Database - Eror in Criterior Input : (1364, "Field 'id' doesn't have a default value")
+2020-06-08 22:45:14,233 - Shedul.Database - Eror in Get Criterior : (1146, "Table 'shedul.type' doesn't exist")
+2020-06-08 22:46:26,697 - Shedul.Database - Eror in Get Criterior : (1146, "Table 'shedul.type' doesn't exist")
+2020-06-10 12:46:21,295 - Shedul.Database - Eror in GetShedul : 'QDate' object has no attribute 'translate'
+2020-06-10 12:47:04,465 - Shedul.Database - Eror in GetShedul : 'QDate' object has no attribute 'translate'
+2020-06-10 12:49:03,014 - Shedul.Database - Eror in GetShedul : 'QDate' object has no attribute 'translate'
+2020-06-10 12:54:53,771 - Shedul.Database - Eror in GetShedul : 'QDate' object has no attribute 'translate'
+2020-06-10 19:14:58,858 - Shedul.Database - Eror in Changing Setting : not all arguments converted during string formatting
+2020-06-10 19:15:23,866 - Shedul.Database - Eror in Changing Setting : not all arguments converted during string formatting
+2020-06-10 19:18:33,194 - Shedul.Database - Eror in Changing Criteriors : not all arguments converted during string formatting
+2020-06-10 20:36:49,392 - Shedul.Database - Eror in Criterior Input : not enough arguments for format string
+2020-06-10 22:52:53,285 - Shedul.Database - Eror in GetShedul : not enough arguments for format string
+2020-06-10 22:55:00,189 - Shedul.Database - Eror in GetShedul : not enough arguments for format string
+2020-06-10 22:56:36,519 - Shedul.Database - Eror in GetShedul : not enough arguments for format string
+2020-06-16 23:17:45,503 - Shedul.Database - Eror in Shedul Input : not enough arguments for format string
+2020-06-16 23:18:25,330 - Shedul.Database - Eror in Shedul Input : not enough arguments for format string
+2020-06-16 23:19:41,104 - Shedul.Database - Eror in Shedul Input : (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '. '7:30', '', 1. 1)' at line 1")
+2020-06-16 23:20:37,004 - Shedul.Database - Eror in Shedul Input : (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '. '7:30', '', 1. 1)' at line 1")
+2020-06-17 08:49:00,610 - Shedul.Database - Eror in Shedul Input : not enough arguments for format string
+2020-06-17 08:50:35,791 - Shedul.Database - Eror in Shedul Input : not enough arguments for format string
+2020-06-17 08:52:08,348 - Shedul.Database - Eror in Shedul Input : not enough arguments for format string
+2020-06-17 15:47:44,963 - Shedul.Database - Eror in GetShedul : (1525, "Incorrect DATE value: '2020-ќкт€брь-17'")
+2020-06-17 15:47:51,684 - Shedul.Database - Eror in Shedul Input : (1292, "Incorrect date value: '2020-ќкт€брь-17' for column 'Date' at row 1")
+2020-06-17 15:48:18,625 - Shedul.Database - Eror in GetShedul : (1525, "Incorrect DATE value: '2020-январь-17'")
+2020-06-17 15:49:55,398 - Shedul.Database - Eror in Shedul Input : (1292, "Incorrect date value: '2020-январь-17' for column 'Date' at row 1")
+2020-06-17 15:51:11,452 - Shedul.Database - Eror in GetShedul : (1525, "Incorrect DATE value: '2020-‘евраль-17'")
+2020-06-17 15:51:14,768 - Shedul.Database - Eror in Shedul Input : (1292, "Incorrect date value: '2020-‘евраль-17' for column 'Date' at row 1")
+2020-06-21 08:51:58,471 - Shedul.Database - Eror in Delete Shedul : (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2020-06-21 08:52:02,804 - Shedul.Database - Eror in Delete Shedul : (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2020-06-21 08:52:12,877 - Shedul.Database - Eror in Delete Shedul : (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2020-06-21 08:52:23,356 - Shedul.Database - Eror in Delete Shedul : (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2020-06-21 08:52:54,570 - Shedul.Database - Eror in GetShedul : not enough arguments for format string
+2020-06-21 09:08:51,207 - Shedul.Database - Eror in Delete Shedul : (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2020-06-21 09:08:52,402 - Shedul.Database - Eror in Delete Shedul : (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2020-06-21 09:08:52,900 - Shedul.Database - Eror in Delete Shedul : (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2020-06-21 09:08:54,272 - Shedul.Database - Eror in Delete Shedul : (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2020-06-21 09:08:55,116 - Shedul.Database - Eror in Delete Shedul : (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2020-06-21 09:09:50,539 - Shedul.Database - Eror in GetShedul : not enough arguments for format string
+2020-06-21 09:12:23,008 - Shedul.Database - Eror in Delete Shedul : (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2020-06-21 09:12:23,601 - Shedul.Database - Eror in Delete Shedul : (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2020-06-21 09:12:24,121 - Shedul.Database - Eror in Delete Shedul : (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2020-06-21 09:12:24,753 - Shedul.Database - Eror in Delete Shedul : (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2020-06-21 09:12:25,352 - Shedul.Database - Eror in Delete Shedul : (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2020-06-21 09:12:41,468 - Shedul.Database - Eror in GetShedul : not enough arguments for format string
+2020-06-21 09:14:49,397 - Shedul.Database - Eror in Delete Shedul : (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2020-06-21 09:14:49,399 - Shedul.Database - Eror in Delete Shedul : (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2020-06-21 09:14:49,400 - Shedul.Database - Eror in Delete Shedul : (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2020-06-21 09:14:49,401 - Shedul.Database - Eror in Delete Shedul : (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2020-06-21 09:14:49,402 - Shedul.Database - Eror in Delete Shedul : (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2020-06-21 09:16:50,843 - Shedul.Database - Eror in Delete Shedul : (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2020-06-21 09:16:50,846 - Shedul.Database - Eror in Delete Shedul : (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2020-06-21 09:16:50,848 - Shedul.Database - Eror in Delete Shedul : (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2020-06-21 09:16:50,849 - Shedul.Database - Eror in Delete Shedul : (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2020-06-21 09:16:50,850 - Shedul.Database - Eror in Delete Shedul : (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2020-06-22 08:39:55,882 - Shedul.Database - Eror in Delete Shedul : (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2020-06-22 08:39:56,205 - Shedul.Database - Eror in Delete Shedul : (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2020-06-22 08:39:56,207 - Shedul.Database - Eror in Delete Shedul : (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2020-06-22 08:39:56,208 - Shedul.Database - Eror in Delete Shedul : (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2020-06-22 12:10:13,906 - Shedul.Database - Eror in Delete Shedul : (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2020-06-22 12:10:14,729 - Shedul.Database - Eror in Delete Shedul : (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2020-06-22 12:10:14,730 - Shedul.Database - Eror in Delete Shedul : (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2020-06-22 12:10:14,731 - Shedul.Database - Eror in Delete Shedul : (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2020-06-22 12:10:14,732 - Shedul.Database - Eror in Delete Shedul : (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2020-06-22 12:10:14,733 - Shedul.Database - Eror in Delete Shedul : (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2020-06-22 12:10:14,734 - Shedul.Database - Eror in Delete Shedul : (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2020-06-22 12:19:12,843 - Shedul.Database - Eror in Delete Shedul : (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2020-06-22 12:19:12,846 - Shedul.Database - Eror in Delete Shedul : (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2020-06-22 12:19:12,847 - Shedul.Database - Eror in Delete Shedul : (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2020-06-22 12:19:12,848 - Shedul.Database - Eror in Delete Shedul : (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2020-06-22 18:12:57,130 - Shedul.Database - Eror in Deleting : (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
+2020-06-22 18:15:19,677 - Shedul.Database - Eror in Deleting : (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1")
